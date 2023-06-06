@@ -1,5 +1,4 @@
 # exercicios
  exercicios
 
-teste
-teste2
+<a href="https://luangf.github.io/exercicios-html-css/">Abrir projeto</a>
