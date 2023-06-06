@@ -1,5 +1,4 @@
 # exercicios
- exercicios
 
 <a href="https://luangf.github.io/exercicios-html-css/projeto/android">Link para abrir o projeto</a>
 
