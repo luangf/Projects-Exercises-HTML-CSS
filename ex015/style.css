@@ -1,0 +1,13 @@
+@charset "UTF-8"; 
+/* REGRA */
+
+body{
+    background-color: rgb(145, 181, 60);
+}
+p{
+    background-color: aqua;
+    text-align: justify;
+    color: blueviolet;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}

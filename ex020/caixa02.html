@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        article > aside{
+            background-color: #395C6B;
+        }
+
+        article{
+            background-color: #FBB469;
+        }
+
+        main{
+            background-color: #80A4ED;
+            border-radius: 10px 10px 10px 10px;
+        }
+
+        nav{
+            background-color: #BCD3F2;
+            box-shadow: 2px 4px 3px 3px rgba(0, 0, 0, 0.419);
+        }
+
+        footer{
+            text-align: center;
+            background-color: #BCD3F2;
+            padding: 4px;
+            margin: 0px;
+        }
+
+        footer > p {
+            /* margin: 0px; */
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- semantica -->
+    <header>
+        <h1>meu site</h1>
+        <nav>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus tenetur tempore quo laboriosam ducimus, expedita dolores. Vitae eveniet, laudantium quasi fugiat sunt magnam ipsa, doloribus nam dolore omnis nulla. Culpa!</p>
+        </section>
+        <!-- qualquer uma dentro de qualquer uma, td bem -->
+        <section id="noticias">
+            <article>
+                <h2>noticia sobre salada</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum, esse harum odio laboriosam et quas? Quo, assumenda sed expedita doloribus vitae ipsam dolorum, sint, esse reprehenderit architecto et qui quia.</p>
+                <aside>
+                    <p>artigo escrito por joana</p>
+                </aside>
+            </article>
+            <article>
+                
+            </article>
+        </section>
+    </main>
+    <footer><p>desenvolvido por luan</p></footer>
+</body>
+</html>

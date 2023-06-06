@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+body {
+    /* background-color: rgb(158, 217, 151); */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(7, 48, 19);
+}
+
+/* ou #segundoH1  #=id .=class */
+h1#segundoH1{
+    text-align: center;
+    background-color: aliceblue;
+}
+/* se ja usou id num elemento n usa dnv regra w3c, usa class */
+
+/* .dsadsa */
+p.paragrafs{
+    background-color: bisque;
+}
+
+.classelegal{
+    font-size: 2em;
+}
+
+div {
+    display: inline-block;
+    background-color: azure;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+div:hover{
+    background-color: rgb(204, 148, 148);
+}
+
+div > p {
+    display: none;
+}
+
+div:hover > p {
+    display: block;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    color: yellow;
+}
+
+/* :: pseudo-elemento; conteudo periferico do elemento, elemento adicionado apareça na periferia */
+/* literalmente after/depois */
+a::after{
+    content: '[link]';
+}
+
+/* :: antes/before literalmente pseudo-elemento do a link */
+a::before{
+    content: 'antes';
+}
+
+/* # =id . =class : =pseudo-class :: =pseudo-element > =children */

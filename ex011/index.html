@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Mídias</title>
+</head>
+<body>
+    <h1>Multiplas imagens para tamanhos de tela diferentes</h1>
+
+    <!-- criar varios sources/fontes/varios img srcs //tem q ser na ordem de tamanho... -->
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem flexivel">
+    </picture>
+
+    <!-- mp3(mpeg),ogg,wav -->
+    <audio preload="metadata" autoplay controls loop>
+        <source src="midia/musica.mp3" type="audio/mpeg">
+        <source src="midia/musica.ogg" type="audio/ogg">
+        <!-- wav é mt grande e pesado -->
+        <source src="midia/musica.wav" type="audio/wav">
+        <p>infelizmente, seu navegador n consegue reproduzir audio, <a href="midia/musica.mp3">clique aqui para baixar o arquivo mp3</a></p>
+    </audio>
+</body>
+</html>
