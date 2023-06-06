@@ -176,6 +176,15 @@ main a{
     color: #2f9f61;
 }
 
+footer a{
+    text-decoration: none;
+    color: #2f9f61;
+}
+
+footer a:hover{
+    color: var(--cor1);
+}
+
 main a:hover{
     color: #195A36;
 }
