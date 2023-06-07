@@ -15,3 +15,7 @@ QR code para abrir projeto Cordel no celular:
 Imagem demonstração Projeto Android:
 
 ![image](https://github.com/luangf/exercicios-html-css/assets/82978424/8f95c0bc-036b-4207-a52c-831fba1e5ca7)
+
+Imagem demonstração Projeto Cordel:
+
+![image](https://github.com/luangf/exercicios-html-css/assets/82978424/0e6bf525-851f-4615-9411-9b308b354dc2)
