@@ -8,6 +8,6 @@ QR code para abrir projeto Android no celular:
 
 <a href="https://luangf.github.io/exercicios-html-css/projeto2/">Projeto Cordel - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
-QR code para abrir projeto 2 no celular:
+QR code para abrir projeto Cordel no celular:
 
 ![qr-code](projeto2/imagens/qrcode2.png)
