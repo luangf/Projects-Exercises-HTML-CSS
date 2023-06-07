@@ -12,7 +12,7 @@
         table{
             width: 500px;
             border-collapse: collapse;
-
+            position: relative;
         }
         td, th{
             border: 1px solid black;
@@ -31,6 +31,11 @@
         td.num{
             text-align: right;
         }
+        thead > tr > th{
+            position: sticky;
+            top: -1px;
+            background-color: gray;
+        }
         tbody > tr:nth-child(2n){
             /* ou param odd(impar, celular impares) ou 2n-1 ou even(par)*/
             background-color: lightgray;
@@ -45,9 +50,11 @@
     <table>
         <caption>População Estados</caption>
         <thead>
-            <!-- scope col -->
-            <th scope="col">Estado</th>
-            <th scope="col" style="width: 50px;">População</th>
+            <tr>
+                <!-- scope col -->
+                <th scope="col">Estado</th>
+                <th scope="col" style="width: 50px;">População</th>
+            </tr>
         </thead>
         <tfoot>
             <tr>
@@ -121,7 +128,53 @@
                 <td>Rio de Janeiro</td>
                 <td class="num">222.333.111</td>
             </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">222.333.111</td>
+            </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">222.333.111</td>
+            </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">222.333.111</td>
+            </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">222.333.111</td>
+            </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">222.333.111</td>
+            </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">222.333.111</td>
+            </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">222.333.111</td>
+            </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">222.333.111</td>
+            </tr>
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="num">222.333.111</td>
+            </tr>
         </tbody>
     </table>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, nihil omnis! Placeat asperiores non quo sunt a temporibus nihil, laborum facere unde iusto saepe velit accusantium veritatis at necessitatibus. Ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime temporibus sunt accusantium corrupti. Beatae asperiores porro, maiores quod repellendus harum consectetur dolores ratione earum repellat perferendis, dolor, ex et ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus fuga, aspernatur, pariatur perferendis voluptatibus deleniti in consequatur, exercitationem est asperiores cum inventore eius totam? Laborum eius velit impedit neque? Quam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit hic, ipsum accusamus, molestiae consequuntur est vero eum beatae maiores soluta incidunt ullam eos deserunt facere excepturi, non alias vitae tempora? Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ad iure assumenda fuga, veritatis modi at magnam, nisi blanditiis perferendis illum esse repellat omnis. Reiciendis earum fugiat ipsa consequuntur provident?</p>
 </body>
 </html>
