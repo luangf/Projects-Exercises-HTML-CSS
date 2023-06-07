@@ -1,6 +1,6 @@
 # exercicios
 
-<a href="https://luangf.github.io/exercicios-html-css/projeto/android" target="_blank">Link para abrir o projeto Android - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
+<a href="https://luangf.github.io/exercicios-html-css/projeto/android" target="_blank">Projeto Android - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
 ![Teste](https://luangf.github.io/exercicios-html-css/projeto/android)
 
