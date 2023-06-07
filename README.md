@@ -1,5 +1,6 @@
 # exercicios
 
+Ctrl + Clique esquerdo do mouse no link para abrir em nova aba
 <a href="https://luangf.github.io/exercicios-html-css/projeto/android" target="_blank">Link para abrir o projeto Android - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
 QR code para abrir projeto Android no celular:
