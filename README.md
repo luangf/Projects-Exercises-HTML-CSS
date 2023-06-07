@@ -1,4 +1,4 @@
-Projetos / Exercícios HTML + CSS
+Projetos / Exercícios - HTML + CSS
 
 <a href="https://luangf.github.io/exercicios-html-css/projeto/android" target="_blank">Projeto Android - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
