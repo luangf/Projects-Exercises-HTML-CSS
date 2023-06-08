@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+/* pseudo-elemento :: */
+/* -webkit-scrollbar barra de rolagem */
+::-webkit-scrollbar{
+    /* tirar as barras de rolagem, no caso usamos a abordagem de width e height */
+    /* ainda da pra rolar, mas n tem a barra de rolagem, no celular n tem barra de rolagem no yt */
+    width: 0px;
+    height: 0px;
+}
+
+img{
+    width: 100vw;
+}
+
+a{
+    display: block;
+    background-color: darkred;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+a:hover{
+    background-color: red;
+}
