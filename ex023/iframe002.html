@@ -12,8 +12,12 @@
     
     <p>Escolha uma das paginas: <a href="paginas/pag001.html" target="frame">--[Página 1]--</a> ou <a href="paginas/pag002.html" target="frame">--[Página 2]--</a></p>
 
+    <!-- se botar src vazio vai pra pagina propria -->
     <iframe name="frame" src="paginas/pag001.html" frameborder="0" height="500" width="500"></iframe>
 
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusamus necessitatibus rem ipsam in, rerum tempore iure vitae officia. Fuga amet optio atque mollitia pariatur ratione exercitationem aperiam eligendi vitae nulla?</p>
+
+    <!-- se tiver q usar "" no srcdoc se usa '' -->
+    <iframe name="frame" srcdoc="<h1>Usando srcdoc</h1>" frameborder="0" height="500" width="500"></iframe>
 </body>
 </html>
