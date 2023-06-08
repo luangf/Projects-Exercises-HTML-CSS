@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iframes</title>
+</head>
+<body>
+    <h1>Meu site principal</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio deserunt dolore nihil minus sunt perspiciatis explicabo! Reiciendis soluta aliquid sint quas magni maxime! Ex excepturi accusantium similique pariatur esse rem.</p>
+    <!-- se tirar o frameborder fica 1 -->
+    <!-- sandbox="sandbox" bloqueia envios, proteção maior -->
+    <!-- mas caso queira enviar dados no form, usar no sandbox allow-same-origin allow-forms allow-scripts -->
+    <!-- referrerpolicy="no-referrer", diz q o conteudo q ta carregado dentro do iframe n vai coletar info do user -->
+    <!-- cuidar para n deixar capturar scripts, pq eles podem ser maliciosos -->
+    <iframe src="paginas/pag003.html" sandbox="allow-same-origin allow-forms allow-scripts" referrerpolicy="no-referrer">
+        <p>Seu navegador não é compatível com isso...</p>
+    </iframe>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio deserunt dolore nihil minus sunt perspiciatis explicabo! Reiciendis soluta aliquid sint quas magni maxime! Ex excepturi accusantium similique pariatur esse rem.</p>
+</body>
+</html>
