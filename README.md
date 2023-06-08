@@ -25,3 +25,8 @@ Imagem demonstração projeto Android:
 Imagem demonstração projeto Cordel:
 
 ![image](https://github.com/luangf/exercicios-html-css/assets/82978424/0e6bf525-851f-4615-9411-9b308b354dc2)
+
+Imagem demonstração projeto Redes Sociais:
+
+![image](https://github.com/luangf/exercicios-html-css/assets/82978424/62189e8d-cbb1-4fa9-b5b0-acc168a99da2)
+
