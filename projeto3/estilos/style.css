@@ -36,8 +36,34 @@ section#telefone{
 
 iframe#tela{
     position: relative;
-    top:80px;
-    left:22px;
-    width: 267px;
-    height: 472px;
+    top:79px;
+    left:21px;
+    width: 269px;
+    height: 473px;
+    border-radius: 2px;
+}
+
+section#redes-sociais{
+    text-align: right;
+}
+
+section#redes-sociais img{
+    width: 50px;
+    margin: 10px;
+    /* 50% redondo */
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    /* para a borda fazer parte do objeto propriedade: para a img n aumentar.. se mecher quando bota borda */
+    box-sizing: border-box;
+}
+
+/* pseudo-classe : */
+section#redes-sociais img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    /* um transform discreto */
+    transform: translate(-3px, -3px);
+    /* x(+(direita)) y(+(baixo)) blur(borrão) spread(espalhar) */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
+    /* transition para qual propriedade? transform / tempo da transição  */
+    transition: transform .4s, border .5s;
 }
