@@ -20,6 +20,10 @@
 
 ![frame](https://github.com/luangf/exercicios-html-css/assets/82978424/e3af62aa-6066-426d-8f5d-609e52b7d5bc)
 
+* QR code para abrir projeto Redes Sociais no celular/tablet/tv:
+
+![frame (1)](https://github.com/luangf/exercicios-html-css/assets/82978424/2917f9fe-ce0d-4bbb-8c9c-c5ba88e509ab)
+
 * Imagem demonstração projeto Android:
 
 ![image](https://github.com/luangf/exercicios-html-css/assets/82978424/8f95c0bc-036b-4207-a52c-831fba1e5ca7)
