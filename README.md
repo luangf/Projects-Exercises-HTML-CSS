@@ -1,28 +1,12 @@
 * Projetos feitos em HTML + CSS
 
-<a href="https://luangf.github.io/exercicios-html-css/projeto/android" target="_blank">Abrir Projeto Android - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto/android" target="_blank">Abrir Projeto Android - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
-<a href="https://luangf.github.io/exercicios-html-css/projeto2/">Abrir Projeto Cordel - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto2/">Abrir Projeto Cordel - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
-<a href="https://luangf.github.io/exercicios-html-css/projeto3/">Abrir Projeto Redes Sociais - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto3/">Abrir Projeto Redes Sociais - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
-<a href="https://luangf.github.io/exercicios-html-css/projeto4/">Abrir Projeto Login Responsivo - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
-
-* QR code para abrir projeto Android no celular:
-
-![qr-code](https://github.com/luangf/exercicios-html-css/assets/82978424/15d4a2d3-8dc9-41a8-b547-b51297458bee)
-
-* QR code para abrir projeto Cordel no celular:
-
-![qrcode2](https://github.com/luangf/exercicios-html-css/assets/82978424/7a656101-9ace-43f8-9b39-c4125995c0a2)
-
-* QR code para abrir projeto Redes Sociais no celular:
-
-![frame](https://github.com/luangf/exercicios-html-css/assets/82978424/e3af62aa-6066-426d-8f5d-609e52b7d5bc)
-
-* QR code para abrir projeto Login Responsivo no celular/tablet/tv:
-
-![frame (1)](https://github.com/luangf/exercicios-html-css/assets/82978424/2917f9fe-ce0d-4bbb-8c9c-c5ba88e509ab)
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto4/">Abrir Projeto Login Responsivo - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
 * Imagem demonstração projeto Android:
 
