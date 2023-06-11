@@ -1,12 +1,12 @@
 * Projetos feitos em HTML + CSS
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto/android" target="_blank">Abrir Projeto Android - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto/android" target="_blank">Abrir Projeto responsivo Android - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto2/">Abrir Projeto Cordel - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto2/">Abrir Projeto responsivo Cordel - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto3/">Abrir Projeto Redes Sociais - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto3/">Abrir Projeto responsivo Redes Sociais - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto4/">Abrir Projeto Login Responsivo - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto4/">Abrir Projeto responsivo Login Responsivo - HTML + CSS, realizado no CursoemVideo de Gustavo Guanabara</a>
 
 * Imagem demonstração projeto Android:
 
