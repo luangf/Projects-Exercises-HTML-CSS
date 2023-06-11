@@ -36,3 +36,6 @@
 
 ![image](https://github.com/luangf/exercicios-html-css/assets/82978424/62189e8d-cbb1-4fa9-b5b0-acc168a99da2)
 
+* Imagem demonstração projeto Login Responsivo:
+
+![image](https://github.com/luangf/exercicios-html-css/assets/82978424/7a9c194f-c7e5-49f6-9433-3c1a8e7e10f2)
