@@ -8,7 +8,7 @@
 
 <a href="https://luangf.github.io/projetos-exercicios-html-css/projeto4/">>> 4. Click here to open the project: "Responsive Login" <<</a>
 
-* Imagem demonstração projeto Android:
+* Demonstration image of Android project:
 
 <img src="https://github.com/luangf/exercicios-html-css/assets/82978424/8f95c0bc-036b-4207-a52c-831fba1e5ca7" width="600px" height="600px">
 
