@@ -1,12 +1,12 @@
 * Responsive projects made in HTML + CSS and deployed on Github Pages
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto/android" target="_blank">>> 1. Click here to open the project: "Android" <<</a>
+<a href="https://luangf.github.io/Projects-Exercises-HTML-CSS/projeto/android" target="_blank">>> 1. Click here to open the project: "Android" <<</a>
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto2/">>> 2. Click here to open the project: "Cordel" <<</a>
+<a href="https://luangf.github.io/Projects-Exercises-HTML-CSS/projeto2/">>> 2. Click here to open the project: "Cordel" <<</a>
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto3/">>> 3. Click here to open the project: "Social Media" <<</a>
+<a href="https://luangf.github.io/Projects-Exercises-HTML-CSS/projeto3/">>> 3. Click here to open the project: "Social Media" <<</a>
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto4/">>> 4. Click here to open the project: "Responsive Login" <<</a>
+<a href="https://luangf.github.io/Projects-Exercises-HTML-CSS/projeto4/">>> 4. Click here to open the project: "Responsive Login" <<</a>
 
 * Demonstration image of Android project:
 
