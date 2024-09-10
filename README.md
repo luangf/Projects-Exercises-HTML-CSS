@@ -1,4 +1,4 @@
-* Projetos responsivos feitos em HTML + CSS
+* Responsive projects made in HTML + CSS
 
 <a href="https://luangf.github.io/projetos-exercicios-html-css/projeto/android" target="_blank">Abrir Projeto responsivo Android</a>
 
