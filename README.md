@@ -4,7 +4,7 @@
 
 <a href="https://luangf.github.io/projetos-exercicios-html-css/projeto2/">>> 2. Click here to open the project: "Cordel" <<</a>
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto3/">Abrir Projeto responsivo Redes Sociais</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto3/">>> 3. Click here to open the project: "Social Media" <<</a>
 
 <a href="https://luangf.github.io/projetos-exercicios-html-css/projeto4/">Abrir Projeto responsivo Login Responsivo</a>
 
