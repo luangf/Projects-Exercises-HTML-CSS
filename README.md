@@ -1,4 +1,4 @@
-* Responsive projects made in HTML + CSS
+* Responsive projects made in HTML + CSS and deployed on Github Pages
 
 <a href="https://luangf.github.io/projetos-exercicios-html-css/projeto/android" target="_blank">>> Click here to open the project: "Android" <<</a>
 
