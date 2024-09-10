@@ -14,7 +14,7 @@
 
 * Imagem demonstração projeto Cordel:
 
-<img src="https://github.com/luangf/exercicios-html-css/assets/82978424/0e6bf525-851f-4615-9411-9b308b354dc2" width="600px">
+<img src="https://github.com/luangf/exercicios-html-css/assets/82978424/0e6bf525-851f-4615-9411-9b308b354dc2" width="600px" height="600px">
 
 * Imagem demonstração projeto Redes Sociais:
 
