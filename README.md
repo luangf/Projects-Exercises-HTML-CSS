@@ -6,7 +6,7 @@
 
 <a href="https://luangf.github.io/projetos-exercicios-html-css/projeto3/">>> 3. Click here to open the project: "Social Media" <<</a>
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto4/">Abrir Projeto responsivo Login Responsivo</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto4/">>> 4. Click here to open the project: "Responsive Login" <<</a>
 
 * Imagem demonstração projeto Android:
 
