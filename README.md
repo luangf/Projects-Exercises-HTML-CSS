@@ -1,6 +1,6 @@
 * Responsive projects made in HTML + CSS
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto/android" target="_blank">>>>Click here to open the project: "Android"<<<</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto/android" target="_blank">>> Click here to open the project: "Android" <<</a>
 
 <a href="https://luangf.github.io/projetos-exercicios-html-css/projeto2/">Abrir Projeto responsivo Cordel</a>
 
