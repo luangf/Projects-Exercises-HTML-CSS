@@ -2,7 +2,7 @@
 
 <a href="https://luangf.github.io/projetos-exercicios-html-css/projeto/android" target="_blank">>> 1. Click here to open the project: "Android" <<</a>
 
-<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto2/">Abrir Projeto responsivo Cordel</a>
+<a href="https://luangf.github.io/projetos-exercicios-html-css/projeto2/">>> 2. Click here to open the project: "Cordel" <<</a>
 
 <a href="https://luangf.github.io/projetos-exercicios-html-css/projeto3/">Abrir Projeto responsivo Redes Sociais</a>
 
